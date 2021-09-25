@@ -1,8 +1,8 @@
 # learning-react
 
 Getting Started (first time developer on project):
-- `git clone https://github.com/YOUR_GITHUB_USERNAME/belka.git` (go to the top where it says 'code' and copy the HTTPS link will work as well).
-- `cd belka` - to go into the directory of Belka.
+- `git clone https://github.com/YOUR_GITHUB_USERNAME/myProject.git` (go to the top where it says 'code' and copy the HTTPS link will work as well).
+- `cd myProject` - to go into the directory of myProject.
 - `yarn` - to install the dependencies attached (yes, just `yarn` by itself).
 - `yarn start` - to run local host development environment.
 - Get to coding :)
